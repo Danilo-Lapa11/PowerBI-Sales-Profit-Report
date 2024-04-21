@@ -3,6 +3,6 @@ I made this repository to acomplish the firts Power BI challenge from DIO bootca
 
 ## Images
 
-![page1](img/page1)
+![page1](img/page1.png)
 
-![page2](img/page2)
+![page2](img/page2.png)
